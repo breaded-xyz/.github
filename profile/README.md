@@ -12,6 +12,6 @@
      ~~            \|__|         \/__/         \/__/         ~~            \/__/         ~~       
 ```
 
-Experiments in making bread from financial markets using computers.
+Experiments in making bread from financial markets.
 
 For coders not quants.
