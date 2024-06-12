@@ -14,6 +14,8 @@
 
 Experiments in making bread from financial markets.
 
+Focus on systematic trading strategies.
+
 By a coder not a quant.
 
 ### Soon
