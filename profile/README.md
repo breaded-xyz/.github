@@ -17,7 +17,7 @@ Experiments in making bread from financial markets with a focus on systematic tr
 By a coder not a quant.
 
 ### Soon
-__zerotoalgo__: a blueprint to design, develop, and deploy a fully automated systematic long/short crypto strategy.
+__zero2algo__: a blueprint to design, develop, and deploy a fully automated systematic long/short crypto strategy.
 
 ### Current
 __alphavec__: a minimalist vectorized backtester in python [https://github.com/breaded-xyz/alphavec]
