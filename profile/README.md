@@ -20,9 +20,9 @@ By a coder not a quant.
 __zero2algo__: a blueprint to design, develop, and deploy a fully automated systematic long/short crypto strategy.
 
 ### Current
-__alphavec__: a minimalist vectorized backtester in python [https://github.com/breaded-xyz/alphavec]
+__alphavec__: a minimalist vectorized backtester in python <https://github.com/breaded-xyz/alphavec>
 
 ### Past
-__alphakit__: a maximalist algo framework in Go [https://github.com/breaded-xyz/alphakit]
+__alphakit__: a maximalist algo framework in Go <https://github.com/breaded-xyz/alphakit>
 
-__alphasim__: progenitor of Alphavec (see above) [https://github.com/breaded-xyz/alphasim]
+__alphasim__: progenitor of Alphavec (see above) <https://github.com/breaded-xyz/alphasim>
