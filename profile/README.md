@@ -1,3 +1,10 @@
+>**Disclaimer**
+>
+>The content provided in this project is for informational purposes only and does not constitute financial advice. This information should not be construed as professional financial advice, and it is recommended to consult with a qualified financial advisor before making any financial decisions.
+>
+>No liability is accepted for any losses or damages incurred as a result of acting or refraining from action based on the information provided in this project. Use this information at your own risk.
+>
+
 ```
       ___           ___           ___           ___           ___           ___           ___     
      /\  \         /\  \         /\  \         /\  \         /\  \         /\  \         /\  \    
@@ -12,9 +19,11 @@
      ~~            \|__|         \/__/         \/__/         ~~            \/__/         ~~       
 ```
 
-Experiments in making bread from financial markets with a focus on systematic trading strategies.
+Experiments in making bread from financial markets using systematic trading strategies.
 
-By a coder not a quant.
+For quant-curious retail traders.
+
+By a coder not a kwant.
 
 ### Soon
 __zero2algo__: a blueprint to design, develop, and deploy a fully automated systematic long/short crypto strategy.
